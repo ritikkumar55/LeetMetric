@@ -12,7 +12,10 @@ LeetMetric is a web application that fetches a user's LeetCode statistics based 
 - **Frontend:** HTML, CSS, JavaScript
 - **API Handling:** Fetch API
 
-## Screenshot
+## 📸 Screenshots
+
+
+<img src="https://github.com/ritikkumar55/LeetMetric/blob/main/Screenshot%20(142).png" width="900" height="500" />
  
 
 ## Installation
@@ -28,7 +31,7 @@ Simply open the `script.js` file in a web browser.
 
 ## Usage
 1. Enter a valid LeetCode username in the input field.
-2. Click the "Fetch Stats" button.
+2. Click the "Search" button.
 3. The app will fetch the user's problem-solving statistics from LeetCode.
 4. A circular chart will display the distribution of solved problems.
 
